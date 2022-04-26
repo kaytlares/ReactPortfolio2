@@ -1,0 +1,33 @@
+{
+  "files": {
+    "app.js": "/ReactPortfolio2/static/js/app.9ed102c5.chunk.js",
+    "app.js.map": "/ReactPortfolio2/static/js/app.9ed102c5.chunk.js.map",
+    "runtime~app.js": "/ReactPortfolio2/static/js/runtime~app.8f2a33a9.js",
+    "runtime~app.js.map": "/ReactPortfolio2/static/js/runtime~app.8f2a33a9.js.map",
+    "static/js/2.91c490c6.chunk.js": "/ReactPortfolio2/static/js/2.91c490c6.chunk.js",
+    "static/js/2.91c490c6.chunk.js.map": "/ReactPortfolio2/static/js/2.91c490c6.chunk.js.map",
+    "favicon-16.png": "/ReactPortfolio2/favicon-16.png",
+    "favicon-32.png": "/ReactPortfolio2/favicon-32.png",
+    "favicon.ico": "/ReactPortfolio2/favicon.ico",
+    "index.html": "/ReactPortfolio2/index.html",
+    "manifest.json": "/ReactPortfolio2/manifest.json",
+    "serve.json": "/ReactPortfolio2/serve.json",
+    "static/js/2.91c490c6.chunk.js.LICENSE.txt": "/ReactPortfolio2/static/js/2.91c490c6.chunk.js.LICENSE.txt",
+    "static/media/Pro.jpg": "/ReactPortfolio2/static/media/Pro.59926b77.jpg",
+    "static/media/flip.jpg": "/ReactPortfolio2/static/media/flip.cad1f152.jpg",
+    "static/media/galaxyr.jpg": "/ReactPortfolio2/static/media/galaxyr.478c862b.jpg",
+    "static/media/iphone.jpg": "/ReactPortfolio2/static/media/iphone.31a71a8b.jpg",
+    "static/media/moto.jpg": "/ReactPortfolio2/static/media/moto.f4d8753b.jpg",
+    "static/media/one.jpg": "/ReactPortfolio2/static/media/one.bb27ad65.jpg",
+    "static/media/pixel.jpg": "/ReactPortfolio2/static/media/pixel.08695aac.jpg",
+    "static/media/se.jpg": "/ReactPortfolio2/static/media/se.d7140018.jpg",
+    "static/media/sony.jpg": "/ReactPortfolio2/static/media/sony.71690e27.jpg",
+    "static/media/sonyf.jpg": "/ReactPortfolio2/static/media/sonyf.62df10db.jpg",
+    "static/media/ultra.jpg": "/ReactPortfolio2/static/media/ultra.848e7a05.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.8f2a33a9.js",
+    "static/js/2.91c490c6.chunk.js",
+    "static/js/app.9ed102c5.chunk.js"
+  ]
+}
