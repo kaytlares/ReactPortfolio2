@@ -1,5 +1,7 @@
 # ReactPortfolio2
 
+PAGES LINK: https://kaytlares.github.io/ReactPortfolio2/
+
 This site was created by Kayla Lares. It implements the idea of an e-commerce site, with features like a form, pictures, and an information page about the product being 
 shown. While it's not 100% an e-commerce site, it follows its ideals.
 
@@ -13,3 +15,5 @@ displayed back to the user in a card formatting.
 
 The last screen also uses a functional component called the last screen. It calls the information from the flat list that was previously set up on the second screen to display the 
 the company, type, specs, battery life, release date, and cost in a bigger window view for the user.
+
+
