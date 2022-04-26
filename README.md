@@ -1,4 +1,7 @@
 # ReactPortfolio2
+
+PAGES LINK: https://kaytlares.github.io/ReactPortfolio2/
+
 This site was created by Kayla Lares. It implements the idea of an e-commerce site, with features like a form, pictures, and an information page about the product being shown. While it’s not 100% an e-commerce site, it follows its ideals.
 
 Components used: For the form screen, which is what the user sees first, I used a functional component called FormScreen. This uses three form input elements that ask a user to input their First and last name, along with their email. Before clicking the submit button, the information they put in the first name field is displayed back to them.
